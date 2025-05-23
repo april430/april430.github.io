@@ -1,8 +1,9 @@
 project:
   type: website
 
+
 website:
-  title: "April's Website"
+  title: "April's Portfolio"
   navbar:
     left:
       - href: index.qmd
